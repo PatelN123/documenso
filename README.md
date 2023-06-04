@@ -7,7 +7,7 @@
 <br>
 <p align="center" style="margin-top: 120px">
   <a href="https://github.com/documenso/documenso.com">
-   <img width="250px" src="https://github.com/documenso/documenso/assets/1309312/cd7823ec-4baa-40b9-be78-4acb3b1c73cb" alt="Documenso Logo">
+   <img width="250px" src="https://media.discordapp.net/attachments/1048261960388575313/1095258498381664256/image.png?width=500&height=507" alt="Resolv Logo">
   </a>
 
   <h3 align="center">Open Source Signing Infrastructure</h3>

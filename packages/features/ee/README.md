@@ -1,6 +1,6 @@
 <div align="center"style="padding: 12px">
   <a href="https://github.com/documenso/documenso.com">
-   <img width="250px" src="https://user-images.githubusercontent.com/1309312/224986248-5b8a5cdc-2dc1-46b9-a354-985bb6808ee0.png" alt="Documenso Logo">
+   <img width="250px" src="https://media.discordapp.net/attachments/1048261960388575313/1095258498381664256/image.png?width=500&height=507" alt="Resolv Logo">
   </a>
   
   <a href="https://dub.sh/documenso-enterprise">Contact Us</a>

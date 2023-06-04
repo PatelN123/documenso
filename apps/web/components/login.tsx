@@ -149,11 +149,11 @@ export default function Login(props: any) {
                 </p>
               ) : (
                 <p className="mt-2 text-center text-sm text-gray-600">
-                  Like Documenso{" "}
+                  Like Resolv{" "}
                   <Link
-                    href="https://documenso.com"
+                    href="https://careers.resolvbot.xyz"
                     className="text-neon hover:text-neon font-medium">
-                    Hosted Documenso is here!
+                    Find your job here.
                   </Link>
                 </p>
               )}
